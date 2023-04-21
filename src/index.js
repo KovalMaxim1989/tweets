@@ -9,7 +9,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <ThemeProvider theme={theme}>
     <Global styles={GlobalStyles} />
-    <BrowserRouter>
+    <BrowserRouter basename="/tweets">
       <App />
     </BrowserRouter>
   </ThemeProvider>
