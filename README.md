@@ -17,7 +17,8 @@ subscribe to a user or unsubscribe.
 - styled-emotions
 - axios
 - local-storage
+- mockapi
 
 ## Project setup
 
-npm install
+npm install npm start
