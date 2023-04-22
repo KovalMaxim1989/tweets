@@ -20,7 +20,7 @@ export const theme = Object.freeze({
   spacing: value => `${4 * value}px`,
   space: [0, 4, 8, 16, 32, 64, 128, 256, 512],
   shadows: {
-    regular: '-2.5777px 6.87386px 20.6216px rgba(0, 0, 0, 0.23)',
+    regular: '-3px 7px 20px rgba(0, 0, 0, 0.23)',
   },
   animation: {
     cubicBezier: '0.25s cubic-bezier(0.7, 0.98, 0.86, 0.98)',
